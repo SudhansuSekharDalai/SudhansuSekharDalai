@@ -7,33 +7,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhansusekhardalai&label=Profile%20views&color=0e75b6&style=flat" alt="sudhansusekhardalai" /> </p>
 
-<p align="left"> <a href="https://twitter.com/twiitername" target="blank"><img src="https://img.shields.io/twitter/follow/twiitername?logo=twitter&style=for-the-badge" alt="twiitername" /></a> </p>
+<p align="left"> <a href="https://twitter.com/Sudhansu_2002" target="blank"><img src="https://img.shields.io/twitter/follow/Sudhansu_2002?logo=twitter&style=for-the-badge" alt="Sudhansu_2002" /></a> </p>
 
-- 🔭 I’m currently working on [Deep Learning](LINK)
+- 🔭 I’m currently working on Deep Learning
 
 - 🌱 I’m currently learning **TF, PT, Octa**
 
-- 👯 I’m looking to collaborate on [Machine learning](LINK)
+- 👨‍💻 All of my projects are available at [GHlink](https://github.com/SudhansuSekharDalai?tab=repositories)
 
-- 🤝 I’m looking for help with [Data analysis](LINK)
+- 📄 Know about my experiences [Resume](https://github.com/SudhansuSekharDalai/Resume)
 
-- 👨‍💻 All of my projects are available at [GHlink](GHlink)
-
-- 💬 Ask me about **Web dev**
-
-- 📫 How to reach me **ssdalai2002@gmail.com**
-
-- 📄 Know about my experiences [Resumelink](Resumelink)
-
-- ⚡ Fun fact **I am cool**
-
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Socials:</h3>
 <p align="left">
-<a href="https://twitter.com/twiitername" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twiitername" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sudhansusekhardalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sudhansusekhardalai" height="30" width="40" /></a>
-<a href="https://kaggle.com/kaggle" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
-<a href="https://fb.com/fbname" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fbname" height="30" width="40" /></a>
-<a href="https://instagram.com/insta name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="insta name" height="30" width="40" /></a>
+<a href="https://twitter.com/Sudhansu_2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Sudhansu_2002" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ssdalai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ssdalai" height="30" width="40" /></a>
+<a href="https://kaggle.com/ssdalai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="ssdalai" height="30" width="40" /></a>
+
+<h3 align="left">Socials:</h3>
 <a href="https://codeforces.com/profile/codeforces name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="codeforces name" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/leetcode name" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode name" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/gfg profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg profile" height="30" width="40" /></a>
