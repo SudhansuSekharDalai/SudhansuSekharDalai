@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm Sudhansu Sekhar Dalai</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="left">Hi 👋, I'm Sudhansu</h1>
+<h3 align="left">A passionate software developer from India</h3>
+
+* 🎓 Electrical Engineering Undergraduate
+* ✉️  Contact me using the social links below or email me at [Sudhansu](mailto:ssdalai2002@gmail.com)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhansusekhardalai&label=Profile%20views&color=0e75b6&style=flat" alt="sudhansusekhardalai" /> </p>
 
