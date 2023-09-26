@@ -5,15 +5,15 @@
 * ✉️  Contact me using the social links below or email me at [Sudhansu](mailto:ssdalai2002@gmail.com)
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sudhansusekhardalai&label=Profile%20views&color=0e75b6&style=flat" alt="sudhansusekhardalai" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ssdalai&label=Profile%20views&color=0e75b6&style=flat" alt="ssdalai" /> </p>
 
 <p align="left"> <a href="https://twitter.com/Sudhansu_2002" target="blank"><img src="https://img.shields.io/twitter/follow/Sudhansu_2002?logo=twitter&style=for-the-badge" alt="Sudhansu_2002" /></a> </p>
 
 - 🔭 I’m currently working on Deep Learning
 
-- 👨‍💻 All of my projects are available at [Repo](https://github.com/SudhansuSekharDalai?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repo](https://github.com/ssdalai?tab=repositories)
 
-- 📄 Know about my experiences [Resume](https://github.com/SudhansuSekharDalai/Resume)
+- 📄 Know about my experiences [Resume](https://github.com/ssdalai/Resume)
 
 <h3 align="left">Socials:</h3>
 <p align="left">
@@ -56,9 +56,9 @@
 </p>
 
 ### Stats
-<p align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api?username=sudhansusekhardalai&hide_border=false&count_private=true&show_icons=true&theme=codeSTACKr" alt="sudhansusekhardalai" align = "center"/>
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sudhansusekhardalai&show_icons=true&locale=en&layout=compact&hide_border=false&theme=codeSTACKr" alt="sudhansusekhardalai" align = "center"/></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sudhansusekhardalai&layout=compact&theme=codeSTACKr" alt="sudhansusekhardalai" /></p>
+<p align="center"><img height="195em" src="https://github-readme-stats.vercel.app/api?username=ssdalai&hide_border=false&count_private=true&show_icons=true&theme=codeSTACKr" alt="ssdalai" align = "center"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs?username=ssdalai&show_icons=true&locale=en&layout=compact&hide_border=false&theme=codeSTACKr" alt="ssdalai" align = "center"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ssdalai&layout=compact&theme=codeSTACKr" alt="ssdalai" /></p>
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/Sudhansu"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="Sudhansu" /></a></p><br><br>
